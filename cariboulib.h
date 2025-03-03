@@ -37,7 +37,7 @@
 #define fuckall void
 #define benlong long
 #define constant const
-#define polong short
+#define pobenlong short
 #define posigne unsigned
 #define signe signed
 #define poche NULL

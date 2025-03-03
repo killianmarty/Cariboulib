@@ -28,7 +28,7 @@ Librairie C simple pour coder en Québécois.
 | `static`        | `fige`          |
 | `extern`        | `externe`       |
 | `const`         | `constant`      |
-| `short`         | `polong`       |
+| `short`         | `pobenlong`       |
 | `long`          | `benlong`       |
 | `unsigned`      | `posigne`       |
 | `signed`        | `signe`         |
