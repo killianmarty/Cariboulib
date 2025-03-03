@@ -8,7 +8,7 @@ Librairie C simple pour coder en Québécois.
 #include "cariboulib.h"
 ```
 
-## Mots clés
+### Mots clés
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -35,7 +35,7 @@ Librairie C simple pour coder en Québécois.
 | `struct`        | `bidule`        |
 | `enum`          | `enumere`       |
 
-## Types
+### Types
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -45,7 +45,7 @@ Librairie C simple pour coder en Québécois.
 | `float`         | `flotte`        |
 | `double`        | `bigflotte`     |
 
-## Valeurs
+### Valeurs
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -53,7 +53,7 @@ Librairie C simple pour coder en Québécois.
 | `true`          | `correc`        |
 | `false`         | `pantoute`      |
 
-## Opérateurs
+### Opérateurs
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -62,7 +62,7 @@ Librairie C simple pour coder en Québécois.
 | `+`             | `pis`           |
 | `==`            | `nezanez`       |
 
-## Fonctions
+### Fonctions
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
