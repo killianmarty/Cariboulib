@@ -25,19 +25,19 @@
 #define faire do
 #define vidange free
 #define pogner malloc
-#define repogne realloc
+#define repogner realloc
 #define grandeur sizeof
 #define type typeof
 
 #define nezanez ==
 
 #define volant volatile
-#define figé static
+#define fige static
 #define externe extern
 #define fuckall void
 #define benlong long
 #define constant const
-#define paslong short
+#define polong short
 #define posigne unsigned
 #define signe signed
 #define poche NULL
