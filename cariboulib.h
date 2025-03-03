@@ -5,7 +5,6 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-#define inclure include
 #define ramene return
 #define si if 
 #define popire else

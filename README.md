@@ -8,7 +8,23 @@ Librairie C simple pour coder en Québécois.
 #include "cariboulib.h"
 ```
 
-### Mots clés
+## Programmer en Caribou
+
+### Convertisseur automatique
+
+Un convertisseur de C vers Caribou est disponible via la commande suivante :
+
+```bash
+python3 converter.py source_file.c > output_file.c
+```
+
+### Lexique
+
+Si vous préférez programmer directement en Caribou, voici une comparaison entre le lexique du Caribou et celui du C.
+
+**NOTE: le lexique C est compatible avec le Caribou**
+
+#### Mots clés
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -35,7 +51,7 @@ Librairie C simple pour coder en Québécois.
 | `struct`        | `bidule`        |
 | `enum`          | `enumere`       |
 
-### Types
+#### Types
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -45,7 +61,7 @@ Librairie C simple pour coder en Québécois.
 | `float`         | `flotte`        |
 | `double`        | `bigflotte`     |
 
-### Valeurs
+#### Valeurs
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -53,7 +69,7 @@ Librairie C simple pour coder en Québécois.
 | `true`          | `correc`        |
 | `false`         | `pantoute`      |
 
-### Opérateurs
+#### Opérateurs
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
@@ -62,7 +78,7 @@ Librairie C simple pour coder en Québécois.
 | `+`             | `pis`           |
 | `==`            | `nezanez`       |
 
-### Fonctions
+#### Fonctions
 
 | **C Standard**  | **Caribou**  |
 |-----------------|-----------------|
