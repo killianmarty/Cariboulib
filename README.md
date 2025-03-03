@@ -2,7 +2,7 @@
 
 Librairie C simple pour coder en Québécois.
 
-![Caribou Icon](icon.webp){ width=50% }
+<img src="icon.webp" alt="Caribou Icon" width="200"/>
 
 ## Utilisation
 
