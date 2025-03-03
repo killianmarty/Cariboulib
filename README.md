@@ -2,6 +2,8 @@
 
 Librairie C simple pour coder en Québécois.
 
+![Caribou Icon](icon.webp)
+
 ## Utilisation
 
 ```C
